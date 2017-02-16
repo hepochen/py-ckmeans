@@ -1,0 +1,4 @@
+dist/*
+ckmeans.egg-info/*
+build/*
+.idea/*
